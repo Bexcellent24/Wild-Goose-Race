@@ -1,0 +1,76 @@
+{
+  "dialogues": [
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Back again, Goosey? Feeling brave?"
+      ],
+      "sfxName": "MurmurShort"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack!"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Good, because this race isn’t just fast—it’s tricky."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack?"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "There are branches in the path. Multiple routes. Some faster than others."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack..."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "You’ll need to think fast and flap fast. Pick the right path and you might just win."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack!"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Now go show those birds you’ve got brains and wings!"
+      ],
+      "sfxName": "Murmur"
+    }
+  ]
+}

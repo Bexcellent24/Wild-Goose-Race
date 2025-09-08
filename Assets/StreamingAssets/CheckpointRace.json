@@ -1,0 +1,116 @@
+{
+  "dialogues": [
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Hey there, duck."
+      ],
+      "sfxName": "MurmurShort"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Goose—sorry about that."
+      ],
+      "sfxName": "MurmurShort"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Right, my bad!"
+      ],
+      "sfxName": "MurmurShort"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Anyway, welcome to the checkpoint race! Your goal is to hit every checkpoint before time runs out."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Excellent question—you’ll need to swim, yes."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack?!"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "What do you mean you don’t like water? You’re a goose!"
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Well, you’ll just have to suck it up. You’ll need to fly too.."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quaaaack..."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Oh, you’ll be fine! Just keep waddling—and good luck!"
+      ],
+      "sfxName": "Murmur"
+    }
+  ]
+}

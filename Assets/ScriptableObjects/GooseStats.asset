@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a88bd17faea4f6e489add39b157f21e9, type: 3}
+  m_Name: GooseStats
+  m_EditorClassIdentifier: 
+  maxForwardSpeed: 80
+  maxReverseSpeed: 10
+  acceleration: 8
+  brakeForce: 20
+  coastDrag: 2
+  turnSpeed: 90
+  rideHeight: 2.5
+  rideSpringStrength: 1000
+  rideSpringDamper: 20
+  fallSpeed: 50
+  fallAcceleration: 400
+  uprightJointTargetRot: {x: 0, y: 0.91146874, z: 0, w: -0.41136938}
+  uprightJointSpringStrength: 25
+  uprightJointSpringDampener: 4
+  waterLevel: 24
+  buoyancyStrength: 800
+  waterDrag: 0.5
+  turnDrag: 0.5
+  swimAcceleration: 80
+  maxFlightSpeed: 25
+  verticalFlightSpeed: 20
+  flyingAcceleration: 8
+  flyingBrakeForce: 5
+  flyingCoastDrag: 1.5
+  flyingTurnSpeed: 60
+  maxFlightHeight: 40
+  turnTiltAmount: 20
+  verticalTiltAmount: 20
+  tiltSpeed: 5

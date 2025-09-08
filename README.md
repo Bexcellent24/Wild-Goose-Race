@@ -12,10 +12,13 @@ A quirky racing game where you play as a goose that swims, flies, and runs. Choo
 - AI opponents with navigation and racing behaviours built in Unity
 
 ## Development Notes
-This project emphasised:
-- **Abstract Data Types** – custom implementations of stacks, queues, hashmaps, graphs, and sets
-- **AI and Navigation** – Unity-based behaviour for racing opponents
-- **Game Design and Programming** – building systems from the ground up with performance and gameplay in mind
+This project was created as part of a **university coursework project**.  
+
+Key focuses included:  
+- **Abstract Data Types** – custom implementations of stacks, queues, hashmaps, graphs, and sets  
+- **AI and Navigation** – Unity-based behaviour for racing opponents  
+- **Clean Code Practices** – consistent use of the **SOLID principles** and design patterns such as the **State pattern**  
+- **Game Design and Programming** – building systems from the ground up with performance and gameplay in mind  
 
 ## Play the Game
 You can try *Wild Goose Race* on itch.io:  

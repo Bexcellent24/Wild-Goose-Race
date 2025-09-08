@@ -1,0 +1,76 @@
+{
+  "dialogues": [
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Alright, Goosey. This time, you're not alone."
+      ],
+      "sfxName": "MurmurShort"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack?"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Yep—it's your first real race. Against other geese."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quaaack?!"
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "No pressure! They're just like you. Feathered, flappy, and mildly aggressive."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "Quack quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "That's the spirit. First one to the finish wins. No shortcuts. No pecking."
+      ],
+      "sfxName": "Murmur"
+    },
+    {
+      "speaker": "Goosey",
+      "portrait": "GooseyPortrait",
+      "lines": [
+        "...quack."
+      ],
+      "sfxName": "Quack"
+    },
+    {
+      "speaker": "Hank",
+      "portrait": "HankPortrait",
+      "lines": [
+        "Okay, maybe just a little pecking. Now get out there and make some feathers fly!"
+      ],
+      "sfxName": "Murmur"
+    }
+  ]
+}
