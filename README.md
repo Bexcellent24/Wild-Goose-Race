@@ -25,4 +25,4 @@ You can try *Wild Goose Race* on itch.io:
 If you want to explore the code:
 1. Clone this repository  
    ```bash
-   git clone https://github.com/YOUR-USERNAME/wild-goose-race.git
+   git clone https://github.com/Bexcellent24/wild-goose-race.git
